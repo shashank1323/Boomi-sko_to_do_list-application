@@ -1,4 +1,4 @@
- Boomi-sko_to_do_list-application
+# Boomi-sko_to_do_list-application
 
 # 1. Introduction
 Build a portal for creating todo list, and marking as crossed when the task is completed.
