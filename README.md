@@ -7,12 +7,12 @@ Install node to run react app (frontend) and maven to run spring boot app (backe
 In /frontend directory, run the application
 
 
-'npm start'
+`npm start`
 
 in /backend/to-do-list directory, run spring boot aplication using maven project
 
 
-'mvn spring-boot:run as spring boot app'
+`mvn spring-boot:run as spring boot app`
 
 Open your browser and browse to http://localhost:3000
 # 1. Introduction
