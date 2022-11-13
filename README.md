@@ -16,7 +16,7 @@ in /backend/to-do-list directory, run spring boot aplication using maven project
 
 Open your browser and browse to http://localhost:3000
 # 1. Introduction
-Built a portal for creating todo list, and marking as crossed when the task is completed.
+Built a portal for creating todo list, and marking as boxed when the task is completed.
 # 2. Product scope - Minimum Viable Product - MVP
 ● Users can register/login.
 
