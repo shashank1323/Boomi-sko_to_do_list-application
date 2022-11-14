@@ -26,7 +26,11 @@ Built a portal for creating todo list, and marking as boxed when the task is com
 
 ● Each user will have the ability to mark tasks as completed, when marked as completed the task will be highlighted in green color
 
+# entity relationship diagram
+![image](https://user-images.githubusercontent.com/80461983/201608491-4b01b876-4b0c-41ab-8066-b932b4c31338.png)
 
+# data flow diagram
+![image](https://user-images.githubusercontent.com/80461983/201608568-6608d96d-79f2-47ac-808c-7abb27f3ef6c.png)
 
 # to do list home page
 ![Screenshot_20221111_025559](https://user-images.githubusercontent.com/80461983/201510334-33d34fc2-10ba-439d-9b17-4d06edc1bae3.png)
