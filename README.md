@@ -54,7 +54,7 @@ Built a portal for creating todo list, and marking as boxed when the task is com
 ![Screenshot_20221111_041518](https://user-images.githubusercontent.com/80461983/201510346-56720763-c404-412f-933a-51906b63bb33.png)
 # backedn spring boot runs as spring boot app
 ![Screenshot_20221111_041623](https://user-images.githubusercontent.com/80461983/201510347-9580fa97-cff3-44b8-b9f9-504af0fd8f8c.png)
-# shwing port number on spring boot console
+# showing port number on spring boot console
 ![Screenshot_20221111_041702](https://user-images.githubusercontent.com/80461983/201510349-4dc8be0e-21b5-455a-93fe-6baa047f1725.png)
 # home page
 ![Screenshot_20221111_050908](https://user-images.githubusercontent.com/80461983/201510350-b88fe58c-1f89-416a-96d6-63a553cba869.png)
